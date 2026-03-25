@@ -1,0 +1,9 @@
+PyQt5
+openai
+python-docx
+mammoth
+Markdown
+beautifulsoup4
+chardet
+colorama
+openpyxl
